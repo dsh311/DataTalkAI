@@ -1,2 +1,2 @@
 # DataTalkAI
-DataTalkAI is a local AI chat client built in C# using WPF and LlamaSharp, supporting GGUF model loading and prompt-based conversations.
+DataTalkAI is a Windows desktop AI chat application built with C# and WPF that allows users to load and interact with local GGUF large language models.
