@@ -1,6 +1,5 @@
 # DataTalkAI
 ![Gameplay GIF](./docs/DataTalkAI_UI.png)  
-*Red dot aiming and shooting at enemies in action.*
 
 DataTalkAI is a WPF-based desktop application that allows users to load and interact with local Large Language Models (LLMs) using GGUF format models. It provides a simple chat-style interface for sending prompts and receiving model completions.
 
